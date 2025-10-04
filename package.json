@@ -1,0 +1,8 @@
+{
+  "name": "audit-methode-sirote",
+  "version": "1.0.0",
+  "description": "Audit Business CEO",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
